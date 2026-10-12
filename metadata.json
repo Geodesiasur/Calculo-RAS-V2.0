@@ -1,0 +1,8 @@
+{
+  "name": "Remix Cálculo RAS - Ing. José Ernesto Muñoz Núñez",
+  "description": "Herramienta de cálculo y dimensionamiento de sistemas de recirculación en acuicultura (RAS) para cultivo de salmones: biomasa, balance de TAN, biofiltro, sólidos SST y balance de oxígeno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
